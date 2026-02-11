@@ -7,7 +7,6 @@
 - 🎓 Computer Science Student  
 - 💻 Learning **Java, C++, JavaScript**
 - 🌱 Exploring **Web Development**
-- 🧠 Interested in **Problem Solving & DSA**
 - ✨ Believe in consistency & practice
 
 ---
