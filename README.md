@@ -38,7 +38,7 @@
 ---
 
 ## 🌐 Connect With Me
-- 📧 Email: your-email@gmail.com  
+- 📧 Email: muskanp9425@gmail.com  
 - 💼 LinkedIn: your-linkedin-link  
 
 ---
